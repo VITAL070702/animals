@@ -21,7 +21,7 @@ const svgMap = {
     heart,
     horse
 }
-
+//AQUI SE ESTA ACTUALIZANXDO EL ESTADO Y INICIANDO DESDE CERO
 function AnimalsShow({type}){
     const [clicks, setClicks] = useState(0)
 
